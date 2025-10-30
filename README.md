@@ -7,6 +7,26 @@
 * 📫 How to reach me: huynhthailinh0604@gmail.com
 
 ---
+### 🌐 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/huynhthailinh/" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0077B5" height="32" alt="LinkedIn Logo">
+  </a>
+  &nbsp; <a href="https://www.instagram.com/hthaislinh_7/" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="32" alt="Instagram Logo">
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/huynhthailinh9999" target="_blank">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="32" alt="Facebook Logo">
+  </a>
+  &nbsp;
+  <a href="mailto:huynhthailinh0604@gmail.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/gmail/D14836" height="32" alt="Gmail Logo">
+  </a>
+</p>
+
+---
 
 ### 📈 GitHub Stats
 
@@ -17,23 +37,28 @@
 
 ---
 
-### 🌐 Connect with me
+### 💻 Languages and Tools:
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/huynhthailinh/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0077B5" height="40" alt="LinkedIn Logo">
-  </a>
-  &nbsp;&nbsp; <a href="https://www.instagram.com/hthaislinh_7/" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" alt="Instagram Logo">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.facebook.com/huynhthailinh9999" target="_blank">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="40" alt="Facebook Logo">
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:huynhthailinh0604@gmail.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/gmail/D14836" height="40" alt="Gmail Logo">
-  </a>
+<p align="left">
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="32" alt="Python">
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/r/276DC3" height="32" alt="R">
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/latex/008080" height="32" alt="LaTeX">
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="32" alt="Numpy">
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="32" alt="Pandas">
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="32" alt="Scikit-Learn">
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/matplotlib/311C87" height="32" alt="Matplotlib">
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="32" alt="TensorFlow">
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/flask/000000" height="32" alt="Flask">
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/github/181717" height="32" alt="GitHub">
 </p>
 
 ---
