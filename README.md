@@ -1,16 +1,67 @@
-## Hi there 👋
+# 👋 Hi there, I'm Linh!
 
-<!--
-**HTLinh0604/HTLinh0604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m passionate about AI, Data Science, and Automation.  
+💻 Currently working on **Invoice Data Extraction** and other AI projects.  
+📫 How to reach me: [Email me](huynhthailinh0604@gmail.com)
 
-Here are some ideas to get you started:
+### 📈 GitHub Stats
+![Linh's GitHub stats](https://github-readme-stats.vercel.app/api?username=HTLinh0604&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HTLinh0604&layout=compact&theme=radical)
+
+---
+
+### 🌐 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huynhthailinh/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/huynhthailinh9999)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/hthaislinh_7/)
+
+
+### 👋 Hi there, I'm Thai Linh!
+
+🇻🇳 I'm from **Vietnam**.  
+📖 I'm a student at **Ho Chi Minh City Technology University**.  
+🖊️ My major is **Data Science** program.  
+❤️ I love learning about **data**, **machine learning**, and **deep learning**.
+* 📫 How to reach me: [huynhthailinh0604@gmail.com].
+
+---
+
+### 🌐 Connect with me
+
+<p align="left">
+  <a href="[https://www.linkedin.com/in/huynhthailinh/]" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="[https://www.instagram.com/hthaislinh_7/]" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="[https://www.facebook.com/huynhthailinh9999]" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="mailto:[huynhthailinh0604L@gmail.com]" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
+
+---
+
+### 💻 My Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+</p>
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&langs_count=8&theme=dracula" alt="Top Languages">
+</p>
