@@ -1,31 +1,17 @@
 # 👋 Hi there, I'm Linh!
 
-🌱 I’m passionate about AI, Data Science, and Automation.  
-💻 Currently working on **Invoice Data Extraction** and other AI projects.  
-📫 How to reach me: [Email me](huynhthailinh0604@gmail.com)
-
-### 📈 GitHub Stats
-![Linh's GitHub stats](https://github-readme-stats.vercel.app/api?username=HTLinh0604&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HTLinh0604&layout=compact&theme=radical)
-
----
-
-### 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huynhthailinh/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/huynhthailinh9999)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/hthaislinh_7/)
-
-
-### 👋 Hi there, I'm Thai Linh!
-
 🇻🇳 I'm from **Vietnam**.  
 📖 I'm a student at **Ho Chi Minh City Technology University**.  
 🖊️ My major is **Data Science** program.  
 ❤️ I love learning about **data**, **machine learning**, and **deep learning**.
 * 📫 How to reach me: [huynhthailinh0604@gmail.com].
 
----
+
+### 📈 GitHub Stats
+![Linh's GitHub stats](https://github-readme-stats.vercel.app/api?username=HTLinh0604&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HTLinh0604&layout=compact&theme=radical)
+
 
 ### 🌐 Connect with me
 
