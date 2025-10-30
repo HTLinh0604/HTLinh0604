@@ -11,19 +11,37 @@
 ### 🌐 Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/huynhthailinh/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+    <img src="https://img.icons8.com/color/48/linkedin.png" height="40" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://www.instagram.com/hthaislinh_7/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
+    <img src="https://img.icons8.com/color/48/instagram-new.png" height="40" alt="Instagram" />
   </a>
   &nbsp;
   <a href="https://www.facebook.com/huynhthailinh9999" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" height="40" alt="Facebook" />
+    <img src="https://img.icons8.com/color/48/facebook-new.png" height="40" alt="Facebook" />
   </a>
   &nbsp;
   <a href="mailto:huynhthailinh0604@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
+    <img src="https://img.icons8.com/color/48/gmail-new.png" height="40" alt="Gmail" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/huynhthailinh/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" height="40" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/hthaislinh_7/" target="_blank">
+    <img src="https://img.icons8.com/color/48/instagram-new.png" height="40" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/huynhthailinh9999" target="_blank">
+    <img src="https://img.icons8.com/color/48/facebook-new.png" height="40" alt="Facebook" />
+  </a>
+  &nbsp;
+  <a href="mailto:huynhthailinh0604@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" height="40" alt="Gmail" />
   </a>
 </p>
 
