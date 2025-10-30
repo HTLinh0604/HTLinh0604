@@ -56,26 +56,15 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HTLinh0604&show_icons=true&theme=radical" alt="Linh's GitHub stats" height="180px" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HTLinh0604&layout=compact&theme=radical" alt="Top Languages" height="180px" />
-</p>
-
-
----
-
----
-
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=HTLinh0604&show_icons=true&theme=radical&hide_border=true" alt="Huỳnh Thái Linh's GitHub Stats" height="180px" />
+      <img src="https://github-readme-stats.vercel.app/api?username=HTLinh0604&show_icons=true&theme=radical" alt="Huỳnh Thái Linh's GitHub Stats" height="180px" />
     </td>
-    <td width="20"></td>
     <td align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HTLinh0604&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180px" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HTLinh0604&layout=compact&theme=radical" alt="Top Languages" height="180px" />
     </td>
   </tr>
 </table>
+
 
