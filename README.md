@@ -61,3 +61,28 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HTLinh0604&layout=compact&theme=radical" alt="Top Languages" height="180px" />
 </p>
+
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HTLinh0604&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Linh's GitHub Stats" height="170" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HTLinh0604&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170" />
+</p>
+
+
+
+---
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=HTLinh0604&show_icons=true&theme=radical" alt="Huỳnh Thái Linh's GitHub Stats" height="180px" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HTLinh0604&layout=compact&theme=radical" alt="Top Languages" height="180px" />
+    </td>
+  </tr>
+</table>
+
