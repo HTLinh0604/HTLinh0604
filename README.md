@@ -9,57 +9,37 @@
 ---
 
 ### 🌐 Connect with me
-<p align="left" style="display:flex; gap:10px;">
-  <a href="https://www.linkedin.com/in/huynhthailinh/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="45" alt="LinkedIn" style="border-radius:10px; transition:transform 0.2s;" />
-  </a>
-  <a href="https://www.instagram.com/hthaislinh_7/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="45" alt="Instagram" style="border-radius:10px; transition:transform 0.2s;" />
-  </a>
-  <a href="https://www.facebook.com/huynhthailinh9999" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook&theme=dark" height="45" alt="Facebook" style="border-radius:10px; transition:transform 0.2s;" />
-  </a>
-  <a href="mailto:huynhthailinh0604@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="45" alt="Gmail" style="border-radius:10px; transition:transform 0.2s;" />
-  </a>
-</p>
-
 <p align="left">
   <a href="https://www.linkedin.com/in/huynhthailinh/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/FFFFFF/0A66C2" height="40" alt="LinkedIn Logo">
+    <img src="https://cdn.simpleicons.org/linkedin/0077B5" height="32" alt="LinkedIn Logo">
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/hthaislinh_7/" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/FFFFFF/E4405F" height="40" alt="Instagram Logo">
+  &nbsp; <a href="https://www.instagram.com/hthaislinh_7/" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="32" alt="Instagram Logo">
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.facebook.com/huynhthailinh9999" target="_blank">
-    <img src="https://cdn.simpleicons.org/facebook/FFFFFF/1877F2" height="40" alt="Facebook Logo">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="32" alt="Facebook Logo">
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:huynhthailinh0604@gmail.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/gmail/FFFFFF/D14836" height="40" alt="Gmail Logo">
+    <img src="https://cdn.simpleicons.org/gmail/D14836" height="32" alt="Gmail Logo">
   </a>
 </p>
 
-<p align="left">
+<p align="left" style="display: flex; gap: 14px;">
   <a href="https://www.linkedin.com/in/huynhthailinh/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn Logo">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" height="45" alt="LinkedIn" style="border-radius:10px; background-color:#000; padding:5px;">
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.instagram.com/hthaislinh_7/" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" height="40" alt="Instagram Logo">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" height="45" alt="Instagram" style="border-radius:10px; background-color:#000; padding:5px;">
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.facebook.com/huynhthailinh9999" target="_blank">
-    <img src="https://img.shields.io/badge/facebook-000000?style=for-the-badge&logo=facebook&logoColor=white" height="40" alt="Facebook Logo">
+    <img src="https://img.icons8.com/fluency/48/facebook-new.png" height="45" alt="Facebook" style="border-radius:10px; background-color:#000; padding:5px;">
   </a>
-  &nbsp;&nbsp;
   <a href="mailto:huynhthailinh0604@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Gmail Logo">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" height="45" alt="Gmail" style="border-radius:10px; background-color:#000; padding:5px;">
   </a>
 </p>
-
 ---
 
 ### 💻 Languages and Tools
