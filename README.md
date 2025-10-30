@@ -4,7 +4,7 @@
 📖 I'm a student at **Ho Chi Minh City Technology University**.  
 🖊️ My major is **Data Science** program.  
 ❤️ I love learning about **data**, **machine learning**, and **deep learning**.
-*📫 How to reach me: [huynhthailinh0604@gmail.com].
+* 📫 How to reach me: [huynhthailinh0604@gmail.com].
 
 
 ### 📈 GitHub Stats
