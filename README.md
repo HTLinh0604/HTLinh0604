@@ -24,20 +24,7 @@
   </a>
 </p>
 
-<p align="left" style="display: flex; gap: 14px;">
-  <a href="https://www.linkedin.com/in/huynhthailinh/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png" height="45" alt="LinkedIn" style="border-radius:10px; background-color:#000; padding:5px;">
-  </a>
-  <a href="https://www.instagram.com/hthaislinh_7/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" height="45" alt="Instagram" style="border-radius:10px; background-color:#000; padding:5px;">
-  </a>
-  <a href="https://www.facebook.com/huynhthailinh9999" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/facebook-new.png" height="45" alt="Facebook" style="border-radius:10px; background-color:#000; padding:5px;">
-  </a>
-  <a href="mailto:huynhthailinh0604@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/gmail-new.png" height="45" alt="Gmail" style="border-radius:10px; background-color:#000; padding:5px;">
-  </a>
-</p>
+
 ---
 
 ### 💻 Languages and Tools
