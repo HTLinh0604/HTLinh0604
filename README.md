@@ -9,7 +9,7 @@
 ---
 
 ### 🌐 Connect with me
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/huynhthailinh/" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" height="40" alt="LinkedIn" />
   </a>
@@ -30,7 +30,7 @@
 ---
 
 ### 💻 Languages and Tools
-<p align="center">
+<p align="left">
   <img src="https://img.icons8.com/color/48/python--v1.png" height="40" alt="Python" />
   &nbsp;
   <img src="https://img.icons8.com/external-becris-flat-becris/64/external-r-data-science-becris-flat-becris.png" height="40" alt="R" />
@@ -41,7 +41,7 @@
   &nbsp;
   <img src="https://img.icons8.com/color/48/pandas.png" height="40" alt="Pandas" />
   &nbsp;
-  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-machine-learning-artificial-intelligence-soft-fill-soft-fill-juicy-fish.png" height="40" alt="Scikit-learn" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="Scikit-learn" />
   &nbsp;
   <img src="https://img.icons8.com/color/48/matplotlib.png" height="40" alt="Matplotlib" />
   &nbsp;
