@@ -9,20 +9,18 @@
 ---
 
 ### 🌐 Connect with me
-<p align="left">
-  <a href="https://www.linkedin.com/in/huynhthailinh/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0077B5" height="32" alt="LinkedIn Logo">
+<p align="left" style="display: flex; gap: 14px;">
+  <a href="https://www.linkedin.com/in/huynhthailinh/" target="_blank" style="transition: transform 0.2s;">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" height="45" style="border-radius:10px; background-color:#000; padding:5px;">
   </a>
-  &nbsp; <a href="https://www.instagram.com/hthaislinh_7/" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="32" alt="Instagram Logo">
+  <a href="https://www.instagram.com/hthaislinh_7/" target="_blank" style="transition: transform 0.2s;">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" height="45" style="border-radius:10px; background-color:#000; padding:5px;">
   </a>
-  &nbsp;
-  <a href="https://www.facebook.com/huynhthailinh9999" target="_blank">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="32" alt="Facebook Logo">
+  <a href="https://www.facebook.com/huynhthailinh9999" target="_blank" style="transition: transform 0.2s;">
+    <img src="https://img.icons8.com/fluency/48/facebook-new.png" height="45" style="border-radius:10px; background-color:#000; padding:5px;">
   </a>
-  &nbsp;
-  <a href="mailto:huynhthailinh0604@gmail.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/gmail/D14836" height="32" alt="Gmail Logo">
+  <a href="mailto:huynhthailinh0604@gmail.com" target="_blank" style="transition: transform 0.2s;">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" height="45" style="border-radius:10px; background-color:#000; padding:5px;">
   </a>
 </p>
 
