@@ -57,7 +57,7 @@
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center" valign="middle">
-      <img src="https://github-readme-stats-private-phi.vercel.app/api?username=HTLinh0604&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=3660" alt="Huỳnh Thái Linh's GitHub Stats" height="180px" />
+      <img src="https://github-readme-stats-private-phi.vercel.app/api?username=HTLinh0604&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=3660" alt="Huỳnh Thái Linh's GitHub Stats" height="180px" />
     </td>
     <td width="20"></td>
     <td align="center" valign="middle">
