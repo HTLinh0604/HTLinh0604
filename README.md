@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi there, I'm Huynh Thai Linh!</h1>
 
-* I am a student from Vietnam, currently majoring in **Data Science** at **Ho Chi Minh City University of Technology**. I am passionate about learning everything related to **data, machine learning** and **deep learning**.
+* I am a student from **Vietnam**, currently majoring in **Data Science** at **Ho Chi Minh City University of Technology**. I am passionate about learning everything related to **data, machine learning** and **deep learning**.
 * You can reach me at: **huynhthailinh0604@gmail.com**
 
 ---
