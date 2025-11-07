@@ -1,10 +1,10 @@
 <h1 align="center">👋 Hi there, I'm Huỳnh Thái Linh!</h1>
 
-# * 🇻🇳 I'm from **Vietnam**.  
-# * 📖 I'm a student at **Ho Chi Minh City University of Technology**.  
-# * 🖊️ My major is **Data Science**.  
-# * ❤️ I love learning about **data**, **machine learning**, and **deep learning**.
-# * I am a student from Vietnam, currently majoring in Data Science at Ho Chi Minh City University of Technology. I am passionate about learning everything related to data, machine learning, and deep learning.
+* 🇻🇳 I'm from **Vietnam**.  
+* 📖 I'm a student at **Ho Chi Minh City University of Technology**.  
+* 🖊️ My major is **Data Science**.  
+* ❤️ I love learning about **data**, **machine learning**, and **deep learning**.
+* I am a student from Vietnam, currently majoring in Data Science at Ho Chi Minh City University of Technology. I am passionate about learning everything related to data, machine learning, and deep learning.
 * 📫 You can reach me at: **huynhthailinh0604@gmail.com**
 
 ---
