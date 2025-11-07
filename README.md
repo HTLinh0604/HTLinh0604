@@ -57,11 +57,11 @@
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=HTLinh0604&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=60" alt="Huỳnh Thái Linh's GitHub Stats" height="180px" />
+      <img src="https://github-readme-stats.vercel.app/api?username=HTLinh0604&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=600" alt="Huỳnh Thái Linh's GitHub Stats" height="180px" />
     </td>
     <td width="20"></td>
     <td align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HTLinh0604&layout=compact&theme=default&hide_border=true&cache_seconds=60" alt="Top Languages" height="180px" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HTLinh0604&layout=compact&theme=default&hide_border=true&cache_seconds=600" alt="Top Languages" height="180px" />
     </td>
   </tr>
 </table>
