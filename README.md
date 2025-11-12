@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi there, I'm Huỳnh Thái Linh!</h1>
 
-* "I am a Data Science student at **Ho Chi Minh City University of Technology**, Currently majoring in **Data Science**. I am actively pursuing knowledge and proficiency in **data analysis**, **Machine Learning**, and **Deep Learning**. My goal is to master these core areas.
+* "I am a student at **Ho Chi Minh City University of Technology**, Currently majoring in **Data Science**. I am actively pursuing knowledge and proficiency in **data analysis**, **Machine Learning**, and **Deep Learning**. My goal is to master these core areas.
 * You can reach me at: **huynhthailinh0604@gmail.com**
 
 ---
