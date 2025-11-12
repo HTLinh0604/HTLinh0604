@@ -51,11 +51,11 @@
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center" valign="middle">
-      <img src="https://github-readme-stats-private-phi.vercel.app/api?username=HTLinh0604&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=false&cache_seconds=3600" alt="Huỳnh Thái Linh's GitHub Stats" height="180px" />
+      <img src="https://github-readme-stats-private-phi.vercel.app/api?username=HTLinh0604&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=false&cache_seconds=2000" alt="Huỳnh Thái Linh's GitHub Stats" height="180px" />
     </td>
     <td width="20"></td>
     <td align="center" valign="middle">
-      <img src="https://github-readme-stats-private-phi.vercel.app/api/top-langs/?username=HTLinh0604&layout=donut&theme=transparent&hide_border=false&cache_seconds=3600" alt="Top Languages" height="180px" />
+      <img src="https://github-readme-stats-private-phi.vercel.app/api/top-langs/?username=HTLinh0604&layout=donut&theme=transparent&hide_border=false&cache_seconds=2000" alt="Top Languages" height="180px" />
     </td>
   </tr>
 </table>
