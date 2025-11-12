@@ -2,12 +2,15 @@
 
 ## About me 🧑
 
-* "I am a student at **Ho Chi Minh City University of Technology**, Currently majoring in **Data Science**. I am actively pursuing knowledge and proficiency in **data analysis**, **Machine Learning**, and **Deep Learning**. My goal is to master these core areas.
-* You can reach me at: **huynhthailinh0604@gmail.com**
+  * 🌱 I’m currently **Data Science** learning at **Ho Chi Minh City University of Technology**
+  * 📊 Actively pursuing knowledge and proficiency in **data analysis**, **Machine Learning**, and **Deep Learning**
+  * 🎯 My goal is to master these core areas.
+  * ⚡ Fun fact I love workout calisthenics.
+  * 📫 You can reach me at: **huynhthailinh0604@gmail.com**
 
 ---
 
-### 🌐 Connect with me
+### Connect with me
 <p align="left" style="display: flex; gap: 14px;">
   <a href="https://www.linkedin.com/in/huynhthailinh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="đoàn-trí-hùng-29a077252" height="30" width="40" /></a>
   <a href="https://www.facebook.com/huynhthailinh9999"" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="oantrihung.197429" height="30" width="40" /></a>
@@ -17,7 +20,7 @@
 
 ---
 
-### 💻 Languages and Tools
+### Languages and Tools
 <p align="left">
   <img src="https://img.icons8.com/color/48/python--v1.png" height="40" alt="Python" />
   &nbsp;
