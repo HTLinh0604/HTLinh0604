@@ -1,5 +1,7 @@
 <h1 align="center">👋 Hi there, I'm Huỳnh Thái Linh!</h1>
 
+## About me 🧑
+
 * "I am a student at **Ho Chi Minh City University of Technology**, Currently majoring in **Data Science**. I am actively pursuing knowledge and proficiency in **data analysis**, **Machine Learning**, and **Deep Learning**. My goal is to master these core areas.
 * You can reach me at: **huynhthailinh0604@gmail.com**
 
@@ -7,18 +9,9 @@
 
 ### 🌐 Connect with me
 <p align="left" style="display: flex; gap: 14px;">
-  <a href="https://www.linkedin.com/in/huynhthailinh/" target="_blank" style="transition: transform 0.2s;">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png" height="45" style="border-radius:10px; background-color:#000; padding:5px;">
-  </a>
-  <a href="https://www.instagram.com/hthaislinh_7/" target="_blank" style="transition: transform 0.2s;">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" height="45" style="border-radius:10px; background-color:#000; padding:5px;">
-  </a>
-  <a href="https://www.facebook.com/huynhthailinh9999" target="_blank" style="transition: transform 0.2s;">
-    <img src="https://img.icons8.com/fluency/48/facebook-new.png" height="45" style="border-radius:10px; background-color:#000; padding:5px;">
-  </a>
-  <a href="mailto:huynhthailinh0604@gmail.com" target="_blank" style="transition: transform 0.2s;">
-    <img src="https://img.icons8.com/fluency/48/gmail-new.png" height="45" style="border-radius:10px; background-color:#000; padding:5px;">
-  </a>
+  <a href="https://www.linkedin.com/in/huynhthailinh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="đoàn-trí-hùng-29a077252" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/huynhthailinh9999"" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="oantrihung.197429" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/hthaislinh_7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="doantri.hung" height="30" width="40" /></a>
 </p>
 
 
