@@ -55,7 +55,7 @@
     </td>
     <td width="20"></td>
     <td align="center" valign="middle">
-      <img src="https://github-readme-stats-private-phi.vercel.app/api/top-langs/?username=HTLinh0604&layout=donut&theme=transparent&hide_border=false&cache_seconds=2025" alt="Top Languages" height="180px" />
+      <img src="https://github-readme-stats-private-phi.vercel.app/api/top-langs/?username=HTLinh0604&layout=donut&theme=transparent&hide_border=false&cache_seconds=2025" alt="TopLanguages" height="180px" />
     </td>
   </tr>
 </table>
