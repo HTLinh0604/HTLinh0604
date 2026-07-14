@@ -15,7 +15,7 @@
 <p align="left" style="display: flex; gap: 14px;">
   <a href="https://www.linkedin.com/in/huynhthailinh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="đoàn-trí-hùng-29a077252" height="30" width="40" /></a>
   <a href="https://www.facebook.com/huynhthailinh9999"" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="oantrihung.197429" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/linh__huynh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="doantri.hung" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/_huynhthailinh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="doantri.hung" height="30" width="40" /></a>
 </p>
 
 
